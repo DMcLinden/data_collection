@@ -1,4 +1,6 @@
-# Data collection for Idea networks (aka concept mapping)
+# Data collection for Idea networks (aka concept mapping)  
+
+**Download**:  Click the *clone or download* button, choose *download zip file*.  Once downloaded unzip and extract the files to a location you choose. Doubleclick to open an program or choose the appropriate application to open the program (e.g., R, Word).  
 
 *Manual data collection*
 * The word document entitled *Instructions and forms for paper data collection* contains forms for collecting data.  
