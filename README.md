@@ -11,4 +11,4 @@
          * Do **not** print a sheet of all of the same items.  This will create the difficult task of sorting all of those items into separate stacks, a tedious time-consuming task that is prone to error.
          * **Do** create a sheet(s) with the items from 1 to N and then cut and stack those items to create one stack.  A common misconception that causes unnecessary work is trying to create the stack so that cards are in order from 1 to N.  This is not necessary, you only need to be sure that each stack of cards has all of the ideas.
     * A template for rating is also provided to which the ideas or statements can be pasted.  
-* Data from the sort recording sheets can be entered into excel in the format described by the R code for reshaping "*racked* data.  The R code for reshaping the data will create a summary matrix of sorting data that can be analyzed using the concept mapping program in R.
+* Data from the sort recording sheets can be entered into excel in the format described by the README for concept mapping *racked* data and by examining the excel input.xlsx file worksheet for racked data.
